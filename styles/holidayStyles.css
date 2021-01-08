@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* Holiday Website CSS Document  */
+
+body {
+	background-color: #ACECF3;
+}
+
+h1 {
+	color: #FFFFFF;
+	font-family: chango;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 3em;
+	text-decoration: underline;
+	text-align: center;
+	text-shadow: 3px 1px #000000;
+}
+
+p {
+	text-align: justify;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #FBFBFB;
+	font-size: 18pt;
+	
+}
+
+#wrapper {
+	margin: auto;
+	width: 1200px;
+	background-color: #F66B6D;
+}
+
+#banner {
+	height: 200px;
+}
+
+#sideNav {
+	width: 300px;
+	float: left;
+}
+
+#sideNav2 {
+	width: 300px;
+	float: right;
+}
+
+#main {
+	background-color: #BBC0EF;
+	width: 580px;
+	float: left;
+	min-height: 300px;
+	border-left: 20px solid #DE52D9;
+}
+
+#footer {
+	height: 35px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: #000000;
+	text-align: center;
+	padding-top: 15px;
+	clear: both;
+}
